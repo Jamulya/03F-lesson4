@@ -14,7 +14,7 @@ const initialState = {
             id: 4466474747
         }],
     count: 0
-    // title: 'Jamas';
+    // title: '';
 
 }
 
